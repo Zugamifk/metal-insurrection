@@ -8,10 +8,10 @@ This rebellion contained individuals with a large number of modifications, many 
 
 Since quashing the rebellion, a culture of paranoia has arisen around human augmentation and robotics. A cult of purists, who reject all technology and electronics is gaining popularity. Since decomissioning all cybernetic parts, the government has moved to restricting access to robots and androids which are also capable of using these components. There is widespread propaganda poromoting the idea of disposing of all autonomous and advanced electronics.
 
-# Part 1 - Escape
+## Part 1 - Escape
 You begin as a highly modified human who wakes up in the mass grave under the city. After having most of your components removed, officials assumed you were dead and disposed of you there. You have gone through massive physical and mental trauma, having lost all memories and most of your physical funcionality. However, you are not the only one to wake up. Something has caused hundreds of others to awaken at the same time, and are now desperately seeking necessary parts to return to full functionality. You must fight to survive and escape the undercity.
 
-# Part 2 - Safety
+## Part 2 - Safety
 Having escaped the undercity, you must now navigate the city above ground while hiding your cybernatic nature. You have multiple objectives here:
 1) Find a safe house to sleep in and use as storage
 2) Find allies
@@ -25,7 +25,7 @@ You will learn about a group of hunters who seek out any remaining cyberneticall
 As others escape the undercity behind you, news will get out about a sudden threat of an "undead" army infiltrating the city, possibly to begin a second rebellion. 
 You will learn that whoever caused this sudden reawakening is working from within the government.
 
-# Part 3 - Purpose
+## Part 3 - Purpose
 By now, the city has grown very aware of the mass reawakening of augmented humans, as hundreds or thousands have managed to escape the undercity. The government has begun attempting to seal all entrances and exits to the undercity as well as sent in many missions to destroy any of the reawakened they find.
 
 The cult of organic purists has become much stronger and more influential. The hunters have also grown much bigger as more and more people join them out of fear. Together, the two groups have created a massive network of surveillance, not only to find augmented humans, but anyone else who shows signs of sympathy towards them. 
@@ -43,8 +43,12 @@ You will learn that there is a secret group inside the government that wishes fo
 You learn this group is divided on the issue of the black markets, one side believing it can coexist in the world of augmented humans, the other believing it must be suppressed.
 You learn that they do not believe in a peaceful uprising, and that the government will only respond to any signs of augmentation supporters with violence.
 
-# Part 4 - Organization
+## Part 4 - Organization
 TBD: Plan the response to this new information, decide whether to align with the government, the coup, or organize your own rebellion
 
-# Part 5 - War
+## Part 5 - War
 TBD: Carry out your plan, discover fallout
+
+# Gameplay
+The core gameplay will revolve around stealth, mobility/parkour, exploration and item discovery.
+TODO
