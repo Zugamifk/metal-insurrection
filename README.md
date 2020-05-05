@@ -84,7 +84,35 @@ You may follow them, in which case it is decided you should make close contacts 
 If you do not follow them, you will have to convince them of the value of everyone's life. You will have to make a case for how you will change the minds of the people attending the rally. You will have to either justify killing the government officials, or convince them not to kill anyone.
 
 ## Part 5 - War
-TBD: Carry out your plan, discover fallout
+On the day of the rally, news of a major terrorist attack planned at the event is declared. The event is cancelled. This comes as a surprise to everyone, including those in the gonverment who were meant to be there. As a result, the city is congested and many government convoys are stuck in traffic. All plans must be reconsidered.
+
+### Coup side
+Coordinates of the vehicles containing the targets are given to you from the coup. You are to destroy specific vehicles or otherwise kill the passengers of those vehicles. However, these are not the vehicles containing the targets, but the coup members themselves. 
+
+If you kill them, a citywide lockdown occurs and the army will be called in. You must either fight or retreat to a refuge where you will need to defend.
+
+If you discover you have been lead to vehicles containing coup members, the alarm will still go off and the army will still be called. You must now save the rebels and bring them to a refuge, where you will defend.
+
+### Government side
+You are sent a message prior to the announcement, not telling you that the event is cancelled but where the location of the coup vehicles are. You are now being told to kill all those within those vehicles. 
+
+If you attack or kill anyone, the army will be called and you will have to fight or run.
+
+If you choose to change sides and rescue someone, the alarm will still sound. The coup leaders will tell you that you are being watched, that nowhere is safe and that you must retreat.
+
+### Your side
+You go to the site of the event only to hear through public annoucement that there will be no rally. You see signs of army movement in the city, and one of the refuge leaders suggests that the government officials may be near the area the army is converging on. You move there and are easily able to detect some of the vehicles containing the government members.
+
+If you chose to kill indiscriminately, you attack the vehicles directly and immediately trigger the army response and must retreat of fight.
+
+If you chose a peaceful route, you will observe a separate faction of augmented humans carry out a massive attack on the vehicles with collateral damage. They will get attacked by the army and forced to retreat. Realizing you are also targets, you also retreat.
+
+## Part 6 - Retreat
+
+## Part 7 - Fallout
+
+## Part 8 - Redemption
+
 
 # Gameplay
 The core gameplay will revolve around stealth, mobility/parkour, exploration and item discovery.
