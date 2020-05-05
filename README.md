@@ -44,7 +44,30 @@ You learn this group is divided on the issue of the black markets, one side beli
 You learn that they do not believe in a peaceful uprising, and that the government will only respond to any signs of augmentation supporters with violence.
 
 ## Part 4 - Organization
-TBD: Plan the response to this new information, decide whether to align with the government, the coup, or organize your own rebellion
+A large rally is organized by the government leaders to gain the morale of the people against the newly reawakened augmented humans. Propanganda is increased and anyone 'vetted' as truly organic will gain benefits from the government. If you have managed to find a good enough disguise, or managed to become fully organic, you are elligible for these benefits.
+
+You have three paths open to you from here.
+
+### Align with the coup
+You are given direct routes of contact with a few of the members of those in the government planning the coup. There are many more, but they are kept secret from you. Because of this, you are given a secret question/answer to identify each other. One of the members you are in contact with is connected to the black markets and can get you into contact with them if you haven't found a way already. Another member you are in contact with will give you information on anyone else in the government, for a price. Another, the leader of the coup, will try to contact regularly and ask you to do work for them to prove yor loyalty. Failure will result in them treating you like an enemy.
+
+Eventually, they will give you the task of finding all of the refuges you can, and spreading the words of the intended coup. You will be the main point of contact. You must find a way to stay hidden and safe while also remaining accessible to both the government rebels and the refuges that need direction. You will be the main way that the government rebels pass information and aid to the refuges, and that the refuges pass information and their status to the government coup.
+
+The main plan will be to infiltrate the rally and assassinate as many government officials as possible using black market and government supplies. Information is key. Access to surveillance data is key. Crippling security is key. If possible, it should not seem like cybernetically enhanced humans were involved in the killings. It should appear like a message that the people to not support this rally.
+
+### Align with the government
+You bring the information of the coup to leaders of the government. If you are well disguised, you will have to come up with a lie for how you came upon this information. If not, you will have to convince them you are on their side.
+
+Regardless, they will ask you to act as a mole and play along with the coup. You will learn about the same plan as outlined above, except you will not get in contact with the refuges, you will not put yourself in a position as the main point of contact, instead letting one of your allies you helped you on your mission to contact the government rebels become the new leader. You may or may not choose to tell your allies about your true allegiance.
+
+If you tell them, your chosen leader will confront you and eventually leave, becoming your enemy and notifying all other augmented humans of your betrayal. You are now a pariah and will have to rely on the government for safety, although regular authorities will persecute you if given the chance, as they will never admit to being allied to an augmented human.
+
+Eventually you will learn from your remaining allies that the plan to infiltrate the event is being planned. You will need to gain as much information on the plan as possible and, knowing that sabotauge is planned, you will have to act as the back up security. You will need to gain as much information as possible on who is going to carry out the killings and how, and you will need to prevent them. 
+
+If you can, you should try to bring some refuges to your side. No reward or redemption is promised. You will only argue out of principle.
+
+### Organize your own revolt
+You decide the government can not be trusted, no matter the promises.
 
 ## Part 5 - War
 TBD: Carry out your plan, discover fallout
