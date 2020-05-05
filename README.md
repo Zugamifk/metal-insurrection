@@ -1,5 +1,5 @@
 # metal-insurrection
-An open world cyberpunk FPS
+An open world sci-fi FPS
 
 # Backstory
 The technology of replacing organic body parts with cybernetic parts has become advanced and accessible to nearly everyone. The popular trend is to replace body parts with modular components that can be swapped for different purposes. Along with it, a black market for components containing deadly weapons, hacking tools, and other illicit functions has come along. This has lead to widespread underground activity, terrorism and most recently, a large scale rebellion.
@@ -67,7 +67,8 @@ Eventually you will learn from your remaining allies that the plan to infiltrate
 If you can, you should try to bring some refuges to your side. No reward or redemption is promised. You will only argue out of principle.
 
 ### Organize your own revolt
-You decide the government can not be trusted, no matter the promises.
+You decide the government can not be trusted, no matter the promises. You maintain the contacts with the government rebels, but only to gain as much information from them as possible. Without the guidance of officials from the government, eventually your lack of loyalty is suspected and you are cut off from the rebel movement.
+
 
 ## Part 5 - War
 TBD: Carry out your plan, discover fallout
