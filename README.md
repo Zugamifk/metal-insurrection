@@ -64,11 +64,24 @@ If you tell them, your chosen leader will confront you and eventually leave, bec
 
 Eventually you will learn from your remaining allies that the plan to infiltrate the event is being planned. You will need to gain as much information on the plan as possible and, knowing that sabotauge is planned, you will have to act as the back up security. You will need to gain as much information as possible on who is going to carry out the killings and how, and you will need to prevent them. 
 
-If you can, you should try to bring some refuges to your side. No reward or redemption is promised. You will only argue out of principle.
+If you can, you should try to bring some refuges to your side. No reward or redemption is promised. You will only argue out of the principle that this is terrorism and it is not the right way to save yourselves. 
 
 ### Organize your own revolt
 You decide the government can not be trusted, no matter the promises. You maintain the contacts with the government rebels, but only to gain as much information from them as possible. Without the guidance of officials from the government, eventually your lack of loyalty is suspected and you are cut off from the rebel movement.
 
+The last details you learn are about killings being planned at the rally. You do not know who will do it, or what the scale will be. The government rebels, having failed to convince the augmented humans they awakened to fight for them, will seek to destroy you and will plan to carry the killings out themselves.
+
+Your allies in the refuges will argue this is the time to strike. First, to cripple the government rebels' side by destroying their limited resources, and then exposing who they are. 
+
+If you are successful in exposing them, they are prosecuted and the government uses this to further gain support from the people. A fraction of the people will also become doubtful and join your side if you can discover them. You will gain new safehouses and access to information if successful.
+
+If you do not expose them, they will still carry out their mission at the rally and you will need to learn more details of this mission in order to either sabotauge it or take advantage of it to destroy both sides.
+
+Regardless, you will need to make your own plan for the rally. The refuge leaders, having been oppressed and forced into hiding, are less than sympathetic for those attending. They will demand a large scale, indiscriminate attack on the entire event. 
+
+You may follow them, in which case it is decided you should make close contacts with the black market dealers to find powerful weapons for the attack. The plan will be to charge and kill anyone who appears with a government uniform. It will be a massacre.
+
+If you do not follow them, you will have to convince them of the value of everyone's life. You will have to make a case for how you will change the minds of the people attending the rally. You will have to either justify killing the government officials, or convince them not to kill anyone.
 
 ## Part 5 - War
 TBD: Carry out your plan, discover fallout
